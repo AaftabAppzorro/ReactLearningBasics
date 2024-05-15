@@ -1,5 +1,5 @@
-import Player from './components/Player.jsx';
-import GameBoard from './components/GameBoard.jsx';
+import Player from './components/Tic-tac-toe/Player.jsx';
+import GameBoard from './components/Tic-tac-toe/GameBoard.jsx';
 
 function App() {
   return (
